@@ -1,5 +1,5 @@
 # README
-A copy of https://github.com/jakejarvis/kitboga-bank. Being used solely as a fake bank for a mystery narrative. 
+A copy of https://github.com/jakejarvis/kitboga-bank. Being used solely as a fake bank for a mystery narrative, edited where needed to accomplish this goal. 
 Please support the original github and thank you!
 
 # ORIGINAL
