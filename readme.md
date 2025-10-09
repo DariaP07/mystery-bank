@@ -1,4 +1,8 @@
 # README
+A copy of https://github.com/jakejarvis/kitboga-bank. Being used solely as a fake bank for a mystery narrative. 
+Please support the original github and thank you!
+
+# ORIGINAL
 Here is the basic html structure for the bank i've been using. 
 If you're interested in creating some alternative "themes" you can pull this and create a separate
 css file in a folder like this: /themes/<yourtheme>/template.css 
