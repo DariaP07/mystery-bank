@@ -4,8 +4,8 @@
 @import url('https://fonts.googleapis.com/css?family=Fira Sans|Roboto&display=swap');
 
 :root {
-  --primary-bg-color: #8bc34a;
-  --secondary-bg-color: #4caf50;
+  --primary-bg-color: #F2D0A9;
+  --secondary-bg-color: #C2B280;
 }
 body, header h2 {
   font-family: 'Fira Sans', 'Arial' !important;
